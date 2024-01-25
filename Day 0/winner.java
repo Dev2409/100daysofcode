@@ -1,4 +1,4 @@
-class Solution {
+class winner {
     public int getWinner(int[] arr, int k) {
         int win=0;
         int curr=arr[0];
