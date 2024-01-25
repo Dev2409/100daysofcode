@@ -1,4 +1,4 @@
-class Solution {
+class longest_consecutive {
     public int longestConsecutive(int[] nums) {
         Set<Integer> set=new HashSet();
         if (nums == null || nums.length == 0) {
